@@ -26,46 +26,45 @@ export const speciesData: Species[] = [
     habitat: "Native to the Indian subcontinent, thrives in warm, tropical climates with well-drained soil.",
     uses: ["Respiratory ailments", "Stress relief", "Immune booster", "Religious ceremonies", "Tea preparation"],
     characteristics: ["Aromatic leaves", "Purple or green stems", "Small purple flowers", "Height: 30-60 cm"],
-    image: "https://images.unsplash.com/photo-1515586000433-45406d8e6662?w=400&h=300&fit=crop"
+    image: "https://th.bing.com/th/id/R.13eb1ffe7789e5be14689b72e58a10d6?rik=XXSbGOTeP2CMNg&riu=http%3a%2f%2fwww.ayurvalley.com%2fwp-content%2fuploads%2f2019%2f04%2fTulsi-or-holy-basil-Blog.jpg&ehk=aw433%2fprGVQuqsHvdWKpqhynyP0L7t%2fsVYJZMYHHtvU%3d&risl=&pid=ImgRaw&r=0"
   },
   {
     id: "2",
-    englishName: "Neem",
-    botanicalName: "Azadirachta indica",
-    tamilName: "வேப்பமரம் (Veppamaram)",
-    category: "trees",
+    englishName: "Indian shot",
+    botanicalName: "Canna indica",
+    tamilName: "Kal Vaalai (கல்வாழை)",
+    category: "Plants",
     description: "Evergreen tree known as the 'village pharmacy' for its numerous medicinal uses.",
-    fullDescription: "Neem is often referred to as the 'village pharmacy' due to its extensive medicinal applications. Every part of the tree—leaves, bark, seeds, and flowers—has therapeutic value. It has been used in traditional Indian medicine for over 4,000 years.",
-    habitat: "Native to India and Myanmar, grows well in tropical and semi-tropical regions.",
+    fullDescription: "Canna indica, commonly known as Indian Shot, has a truly global footprint, spanning nearly every continent in tropical and subtropical zone. While its name might suggest otherwise, it is native to the Americas and has since naturalized pantropically through human trade and migration.",
+    habitat: "A tall, erect perennial herb, typically reaching heights of 1–2.5 metres. Unlike the annual habit of Solanum nigrum, it persists for many years via its underground system",
     uses: ["Skin disorders", "Dental care", "Pest control", "Blood purification", "Diabetes management"],
     characteristics: ["Compound leaves", "White fragrant flowers", "Olive-like fruits", "Height: up to 20 meters"],
-    image: "https://images.unsplash.com/photo-1609139003551-ee40f5f73ec0?w=400&h=300&fit=crop"
+    image: "https://alchetron.com/cdn/canna-indica-a7a2fb0c-9b1d-4f6c-a8a5-6e11526ac85-resize-750.jpeg"
   },
   {
     id: "3",
-    englishName: "Lotus",
-    botanicalName: "Nelumbo nucifera",
-    tamilName: "தாமரை (Thamarai)",
-    category: "flowers",
+    englishName: "Black nightshade",
+    botanicalName: "Solanum nigrum",
+    tamilName: "மணத்தக்காளி (Manathakkali)",
+    category: "Plants",
     description: "Aquatic perennial flower symbolizing purity and enlightenment in Asian cultures.",
-    fullDescription: "The Lotus is a sacred flower in many Asian cultures, symbolizing purity, enlightenment, and rebirth. It grows in murky water but produces beautiful, pristine flowers. The entire plant is edible and has significant medicinal value.",
-    habitat: "Aquatic plant found in shallow ponds, lakes, and slow-moving waters across Asia.",
-    uses: ["Ornamental", "Edible seeds and roots", "Traditional medicine", "Religious offerings", "Cosmetics"],
-    characteristics: ["Large circular leaves", "Pink or white petals", "Distinctive seed pod", "Grows up to 150 cm above water"],
-    image: "https://images.unsplash.com/photo-1474557157379-8aa74a6ef541?w=400&h=300&fit=crop"
+    fullDescription: "In India, Solanum nigrum is widely distributed throughout the country, from the plains to hilly regions up to about 2,000–2,500 m altitude.",
+    habitat: "The plant grows in a wide range of habitats such as Roadsides, Waste Lands, Cultivated fields, Garderns, RiverBanks, Near Human Settlements",
+    uses: ["Used to treat mouth ulcers, stomach ulcers, and gastric irritation."],
+    image: "https://keys.lucidcentral.org/keys/v3/scotia/key/Plants%20and%20Fungi%20of%20south%20western%20NSW/Media/Images/Solanum_nigrum/Solanum_nigrum_Fagg_Boorowa-Crookwell_Rd.jpg"
   },
   {
     id: "4",
-    englishName: "Turmeric",
-    botanicalName: "Curcuma longa",
-    tamilName: "மஞ்சள் (Manjal)",
-    category: "herbs",
-    description: "Golden spice with powerful anti-inflammatory and antioxidant properties.",
+    englishName: "Yellow Bells, Yellow Trumpetbush, or Yellow Elder",
+    botanicalName: "Tecoma Stans",
+    tamilName: "நாக செண்பகம் (Naga Senbagam) ",
+    category: "Plants",
+    description: "A fast-growing ornamental flowering shrub/tree with bright yellow trumpet-shaped flowers, known for its drought tolerance",
     fullDescription: "Turmeric is one of the most important spices in Indian cuisine and traditional medicine. Its active compound, curcumin, has been extensively studied for its anti-inflammatory, antioxidant, and healing properties. It's an integral part of Indian culture and rituals.",
-    habitat: "Tropical plant requiring warm temperatures and significant rainfall, primarily grown in India.",
-    uses: ["Cooking spice", "Anti-inflammatory", "Wound healing", "Skincare", "Religious ceremonies"],
-    characteristics: ["Large oblong leaves", "Yellow rhizomes", "White and pink flowers", "Height: 60-90 cm"],
-    image: "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400&h=300&fit=crop"
+    habitat: "A fast-growing shrub or small tree, about 3–8 m tall, evergreen or semi-evergreen",
+    uses: ["Diabetes", "Digestive Disorder", "Fever", "Skin Diseases"],
+    characteristics: ["evergreen/semi-evergreen, attracts pollinators, low maintenance"],
+    image: "https://www.bhg.com/thmb/fvD8i-pr2FGpxRfQXbutxejuqCg=/1280x0/filters:no_upscale():strip_icc()/yellow-bells-tecoma-stans-bloom-4f5bd9aa-0cc64de38ee749eb954be58ce6e97b4a.jpg"
   },
   {
     id: "5",
@@ -78,7 +77,7 @@ export const speciesData: Species[] = [
     habitat: "Native to South and Southeast Asia, prefers warm climates with moderate humidity.",
     uses: ["Perfumery", "Hair adornment", "Aromatherapy", "Tea flavoring", "Religious offerings"],
     characteristics: ["Small white flowers", "Glossy green leaves", "Climbing or bushy habit", "Intense fragrance"],
-    image: "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=400&h=300&fit=crop"
+    image: "https://tse4.mm.bing.net/th/id/OIP.Ox6GW2biWAEsSTJpLt36SgHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     id: "6",
@@ -91,7 +90,7 @@ export const speciesData: Species[] = [
     habitat: "Native to Indian subcontinent, grows in tropical and subtropical climates.",
     uses: ["Shade provider", "Medicinal bark", "Religious significance", "Wood for crafts", "Wildlife habitat"],
     characteristics: ["Aerial roots", "Spreading canopy", "Leathery leaves", "Can cover several acres"],
-    image: "https://images.unsplash.com/photo-1590672617573-7ca1c5fa1d99?w=400&h=300&fit=crop"
+    image: "https://th.bing.com/th/id/OIP.q7fd-rxYnNukynFM2yy8gQHaE8?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     id: "7",
@@ -104,7 +103,7 @@ export const speciesData: Species[] = [
     habitat: "Native to Arabian Peninsula, now cultivated worldwide in arid and semi-arid regions.",
     uses: ["Skin healing", "Hair care", "Digestive health", "Sunburn relief", "Cosmetics"],
     characteristics: ["Thick fleshy leaves", "Serrated edges", "Yellow tubular flowers", "Height: 60-100 cm"],
-    image: "https://images.unsplash.com/photo-1596547609652-9cf5d8c76921?w=400&h=300&fit=crop"
+    image: "https://tse3.mm.bing.net/th/id/OIP._EWRIZG4G8zy69ete5xB0AHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     id: "8",
@@ -117,7 +116,7 @@ export const speciesData: Species[] = [
     habitat: "Tropical and subtropical regions, requires full sun and regular watering.",
     uses: ["Hair growth", "Natural dye", "Herbal tea", "Religious offerings", "Ornamental"],
     characteristics: ["Large trumpet flowers", "Glossy dark leaves", "Various colors", "Height: 2-5 meters"],
-    image: "https://images.unsplash.com/photo-1595352672106-94c3f91dd34a?w=400&h=300&fit=crop"
+    image: "https://tse3.mm.bing.net/th/id/OIP.OootZJbhwcXhptAn8lnIWgHaFj?w=1024&h=768&rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     id: "9",
